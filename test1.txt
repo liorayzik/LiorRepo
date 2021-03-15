@@ -1,2 +1,2 @@
 print bla
-print lior
+print lior2
